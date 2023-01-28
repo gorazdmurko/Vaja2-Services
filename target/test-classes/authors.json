@@ -1,0 +1,29 @@
+{
+  "Scott Jurek" : {
+    "name" : "Scott Jurek",
+    "age" : 52,
+    "alive" : true,
+    "books" : [ {
+      "title" : "Eat & Run",
+      "publisher" : "Jurek",
+      "publishDate" : 1674900253847,
+      "pages" : 217
+    }, {
+      "title" : "Eat & Run",
+      "publisher" : "Jurek",
+      "publishDate" : 1674900253847,
+      "pages" : 217
+    } ]
+  },
+  "Cristopher McDougall" : {
+    "name" : "Cristopher McDougall",
+    "age" : 67,
+    "alive" : false,
+    "books" : [ {
+      "title" : "Born to run",
+      "publisher" : "McDougall",
+      "publishDate" : 1674900253847,
+      "pages" : 319
+    } ]
+  }
+}
